@@ -59,7 +59,7 @@ El flujo de trabajo seguido en el notebook (`APC_Practica_1_2024.ipynb`) incluye
     jupyter notebook APC_Practica_1_2024.ipynb
     ```
 
-## ✒️ Autores
+## Autores
 Trabajo realizado por:
 * Nerea de la Torre Veguillas
 * Mara Montero Jurado
